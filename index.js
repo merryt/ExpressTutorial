@@ -54,7 +54,7 @@ app.get('/', function (req, res) {
 })
 
 function verifyUser(req, res){
-  
+  var fp =
 }
 
 app.get('/:username', function (req, res) {
